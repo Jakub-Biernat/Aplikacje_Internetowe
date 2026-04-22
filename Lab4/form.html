@@ -9,6 +9,17 @@
 <body>
 <form name="dane_osobowe">
   <table>
+    <tbody>
+    <tr><td>Wiersz 1</td></tr>
+    <tr><td>Wiersz 2</td></tr>
+    <tr><td>Wiersz 3</td></tr>
+    <tr><td>Wiersz 4</td></tr>
+    <tr><td>Wiersz 5</td></tr>
+    <tr><td>Wiersz 6</td></tr>
+    <tr><td>Wiersz 7</td></tr>
+    </tbody>
+  </table>
+  <table>
     <tr><td>Imię</td><td><input type="text" name="f_imie"><span class="err" id="e_imie"></span></td></tr>
     <tr><td>Nazwisko</td><td><input type="text" name="f_nazwisko"><span class="err" id="e_nazwisko"></span></td></tr>
     <tr>
@@ -28,5 +39,11 @@
     <tr><td colspan="2"><input type="submit" value="Prześlij" onclick="return validate(this.form)"></td></tr>
   </table>
 </form>
+<script>
+  window.onload = function() {
+    let rows = document.getElementsByTagName("tr");
+    alterRows(1, rows[0]);
+  }
+</script>
 </body>
 </html>

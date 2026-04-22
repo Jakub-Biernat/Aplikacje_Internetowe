@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 16-20">
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add Lab1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab4/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab4/form_check.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/form_check.js" afterDir="false" />
@@ -22,22 +22,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jakub-Biernat"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jakub-Biernat&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Jakub-Biernat/Aplikacje_Internetowe.git",
-    "accountId": "0a997c16-bc21-4b0c-889a-76e4bfed93b5"
+    "accountId": "48f9bdd4-4f77-4ea4-89b8-f891e4450113"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3BqUpg7XA69YI9nehqz5ub9uTfB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,16 +49,24 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.main.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
-    "nodejs_interpreter_path": "C:/Users/kbier/AppData/Roaming/JetBrains/WebStorm2026.1/node/versions/24.14.1/node",
+    "last_opened_file_path": "D:/WebstormProjects/Aplikacje Internetowe/Lab1",
+    "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/kbier/WebstormProjects/AplikacjeInternetowe/src/main.js",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\Aplikacje Internetowe\Lab1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1775216281520</updated>
       <workItem from="1775216282715" duration="3791000" />
+      <workItem from="1776872753277" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -99,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775219157321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Lab1">
+      <option name="closed" value="true" />
+      <created>1776872812984</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776872812984</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +126,7 @@
     <MESSAGE value="Add podpunkty 1-10" />
     <MESSAGE value="Add podpunkty 11-15" />
     <MESSAGE value="Add podpunkty 16-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 16-20" />
+    <MESSAGE value="Add Lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lab1" />
   </component>
 </project>
