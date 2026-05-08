@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add Podpunkty 1-5">
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add Podpunkty 6-10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab2_3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2_3/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778243223774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Podpunkty 6-10">
+      <option name="closed" value="true" />
+      <created>1778243796083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778243796083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +171,7 @@
     <MESSAGE value="Add Podpunkty 31-33 (Finish)" />
     <MESSAGE value="Start Lab2_3" />
     <MESSAGE value="Add Podpunkty 1-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Podpunkty 1-5" />
+    <MESSAGE value="Add Podpunkty 6-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Podpunkty 6-10" />
   </component>
 </project>
