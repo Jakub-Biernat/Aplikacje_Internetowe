@@ -5,7 +5,7 @@ html, body, p{
 
 * {
     box-sizing: border-box;
-    font-family: Verdana;
+    font-family: Verdana, serif;
     font-size: 16px;
     font-weight: normal;
     text-decoration: none;
@@ -15,44 +15,11 @@ html, body, p{
 header {
     display: flex;
     flex-direction: row;
-    padding: 30px;
-    align-items: flex-start;
-}
-
-header h1{
-    margin-left: 15px;
-    font-weight: bold;
-    font-size: 32px;
-}
-
-header nav{
-    flex-grow: 2;
-    align-self: flex-start;
-    display: flex;
-    justify-content: flex-end;
-}
-
-header nav a{
-    width: 75px;
-}
-
-.logo {
-    width: 75px;
-    height: 75px;
-    background-color: lightgray;
-    border: 2px solid gray;
-    border-radius: 50%;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    font-weight: bold;
 }
 
 main {
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
 }
 
 footer {
