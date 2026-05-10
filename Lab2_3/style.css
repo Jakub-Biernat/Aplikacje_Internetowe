@@ -3,6 +3,16 @@ html, body, p{
     padding: 0;
 }
 
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
 * {
     box-sizing: border-box;
     font-family: Verdana, serif;
@@ -34,6 +44,10 @@ footer {
     margin-top: 15px;
     align-items: center;
     justify-content: center;
+}
+
+footer p:last-child {
+    font-weight: bold;
 }
 
 header h1 {
@@ -95,7 +109,13 @@ h4 {
     border-bottom: 2px solid black;
 }
 
-p {
+article p {
     text-align: justify;
     padding: 10px;
+}
+
+@media all and (max-width: 900px) {
+    main {
+        flex-wrap: wrap;
+    }
 }
