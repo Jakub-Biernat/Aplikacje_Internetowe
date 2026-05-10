@@ -114,8 +114,46 @@ article p {
     padding: 10px;
 }
 
+.hamburger {
+    display: none;
+    width: 60px;
+    height: 60px;
+
+    flex-direction: column;
+    justify-content: space-between;
+
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: lightgray;
+}
+
+.hamburger span {
+    height: 2px;
+    background-color: black;
+    border-radius: 2px;
+
+}
+
 @media all and (max-width: 900px) {
+
     main {
         flex-wrap: wrap;
+    }
+
+    header {
+        justify-content: space-between;
+    }
+
+    header h1 {
+        display: none;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    .hamburger {
+        display: flex;
     }
 }
