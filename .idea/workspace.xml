@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add Lab1 (Finish)" />
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 1-5">
+      <change afterPath="$PROJECT_DIR$/Lab6/funkcje.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/logowanie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/cookie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/user.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +34,12 @@
     &quot;assignee&quot;: &quot;Jakub-Biernat&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jakub-Biernat/Aplikacje_Internetowe.git",
-    "accountId": "cdda6ddf-b37d-42a5-98e4-c205dc3d9b81"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jakub-Biernat/Aplikacje_Internetowe.git&quot;,
+    &quot;accountId&quot;: &quot;cdda6ddf-b37d-42a5-98e4-c205dc3d9b81&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -54,7 +61,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kbier/WebstormProjects/AplikacjeInternetowe/Lab2_3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WebstormProjects/Aplikacje Internetowe/Lab6&quot;,
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kbier/WebstormProjects/AplikacjeInternetowe/src/main.js&quot;,
@@ -63,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebstormProjects\Aplikacje Internetowe\Lab6" />
       <recent name="C:\Users\kbier\WebstormProjects\AplikacjeInternetowe\Lab2_3" />
       <recent name="D:\WebstormProjects\Aplikacje Internetowe\Lab1" />
     </key>
@@ -85,6 +93,8 @@
       <workItem from="1775216282715" duration="3791000" />
       <workItem from="1776872753277" duration="2991000" />
       <workItem from="1778746546247" duration="135000" />
+      <workItem from="1778754092500" duration="652000" />
+      <workItem from="1778771038922" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -190,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778746577456</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add podpunkty 1-5">
+      <option name="closed" value="true" />
+      <created>1778754142266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778754142266</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +228,7 @@
     <MESSAGE value="Add Podpunkty 18-20" />
     <MESSAGE value="Add Podpunkty 21-22 (Finish)" />
     <MESSAGE value="Add Lab1 (Finish)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lab1 (Finish)" />
+    <MESSAGE value="Add podpunkty 1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 1-5" />
   </component>
 </project>

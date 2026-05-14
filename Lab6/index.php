@@ -1,3 +1,8 @@
+<?php session_start(); ?>
+<?php
+require("funkcje.php");
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,7 +16,7 @@
         ?>
     </h1>
 
-    <form action="index.php" method="POST">
+    <form action="logowanie.php" method="POST">
 
         <label>Login:</label>
         <input type="text" name="login"><br>
@@ -22,5 +27,6 @@
         <input type="submit" name="zaloguj" value="Zaloguj">
 
     </form>
+
 </body>
 </html>
