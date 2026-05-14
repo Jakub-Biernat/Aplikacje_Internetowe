@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 1-5">
-      <change afterPath="$PROJECT_DIR$/Lab6/funkcje.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/logowanie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/cookie.php" afterDir="false" />
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 6-10">
       <change beforePath="$PROJECT_DIR$/Lab6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab6/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/user.php" afterDir="false" />
     </list>
@@ -94,7 +90,7 @@
       <workItem from="1776872753277" duration="2991000" />
       <workItem from="1778746546247" duration="135000" />
       <workItem from="1778754092500" duration="652000" />
-      <workItem from="1778771038922" duration="623000" />
+      <workItem from="1778771038922" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -208,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778754142266</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add podpunkty 6-10">
+      <option name="closed" value="true" />
+      <created>1778771685613</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778771685613</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +233,7 @@
     <MESSAGE value="Add Podpunkty 21-22 (Finish)" />
     <MESSAGE value="Add Lab1 (Finish)" />
     <MESSAGE value="Add podpunkty 1-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 1-5" />
+    <MESSAGE value="Add podpunkty 6-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 6-10" />
   </component>
 </project>
