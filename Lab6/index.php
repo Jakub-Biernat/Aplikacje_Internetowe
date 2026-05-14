@@ -3,6 +3,12 @@
 require("funkcje.php");
 ?>
 
+<?php
+if (isSet($_POST['wyloguj'])) {
+    $_SESSION['zalogowany'] = 0;
+}
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,6 +33,9 @@ require("funkcje.php");
         <input type="submit" name="zaloguj" value="Zaloguj">
 
     </form>
+
+    <br>
+    <a href="user.php">user.php</a>
 
 </body>
 </html>
