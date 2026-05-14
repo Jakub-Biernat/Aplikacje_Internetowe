@@ -19,7 +19,6 @@ if (isSet($_POST['zaloguj'])) {
         exit();
     }
 
-    // Sprawdzenie użytkownika 2
     elseif ($login == $osoba2->login && $haslo == $osoba2->haslo) {
 
         $_SESSION['zalogowany'] = 1;
