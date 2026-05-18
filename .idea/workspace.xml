@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 11-15">
-      <change beforePath="$PROJECT_DIR$/Lab6/cookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/cookie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/logowanie.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/logowanie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/user.php" afterDir="false" />
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 16-20 (Finish)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,8 @@
       <workItem from="1776872753277" duration="2991000" />
       <workItem from="1778746546247" duration="135000" />
       <workItem from="1778754092500" duration="652000" />
-      <workItem from="1778771038922" duration="2010000" />
+      <workItem from="1778771038922" duration="2029000" />
+      <workItem from="1779121015725" duration="455000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -230,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778773128966</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add podpunkty 16-20 (Finish)">
+      <option name="closed" value="true" />
+      <created>1778778470212</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1778778470212</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +258,7 @@
     <MESSAGE value="Add podpunkty 1-5" />
     <MESSAGE value="Add podpunkty 6-10" />
     <MESSAGE value="Add podpunkty 11-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 11-15" />
+    <MESSAGE value="Add podpunkty 16-20 (Finish)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 16-20 (Finish)" />
   </component>
 </project>
