@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 16 (Finish)">
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 1-5">
+      <change afterPath="$PROJECT_DIR$/Lab5/Style.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab5/Selektory.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Selektory.html" afterDir="false" />
     </list>
@@ -95,7 +96,7 @@
       <workItem from="1779121015725" duration="2476000" />
       <workItem from="1779203240457" duration="1929000" />
       <workItem from="1779207854257" duration="4000" />
-      <workItem from="1779360771771" duration="865000" />
+      <workItem from="1779360771771" duration="1503000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -273,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779207646418</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add podpunkty 1-5">
+      <option name="closed" value="true" />
+      <created>1779383424377</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1779383424377</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,10 +302,10 @@
     <MESSAGE value="Add Podpunkty 21-22 (Finish)" />
     <MESSAGE value="Add Lab1 (Finish)" />
     <MESSAGE value="Add podpunkty 16-20 (Finish)" />
-    <MESSAGE value="Add podpunkty 1-5" />
     <MESSAGE value="Add podpunkty 6-10" />
     <MESSAGE value="Add podpunkty 11-15" />
     <MESSAGE value="Add podpunkty 16 (Finish)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 16 (Finish)" />
+    <MESSAGE value="Add podpunkty 1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 1-5" />
   </component>
 </project>
