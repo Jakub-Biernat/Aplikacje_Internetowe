@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 11-15">
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 16 (Finish)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Selektory.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Selektory.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
@@ -74,8 +76,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
-        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
       </set>
     </attachedChunks>
   </component>
@@ -92,7 +93,9 @@
       <workItem from="1778754092500" duration="652000" />
       <workItem from="1778771038922" duration="2029000" />
       <workItem from="1779121015725" duration="2476000" />
-      <workItem from="1779203240457" duration="1763000" />
+      <workItem from="1779203240457" duration="1929000" />
+      <workItem from="1779207854257" duration="4000" />
+      <workItem from="1779360771771" duration="865000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -262,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779123130544</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add podpunkty 16 (Finish)">
+      <option name="closed" value="true" />
+      <created>1779207646418</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1779207646418</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +296,7 @@
     <MESSAGE value="Add podpunkty 1-5" />
     <MESSAGE value="Add podpunkty 6-10" />
     <MESSAGE value="Add podpunkty 11-15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 11-15" />
+    <MESSAGE value="Add podpunkty 16 (Finish)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 16 (Finish)" />
   </component>
 </project>
