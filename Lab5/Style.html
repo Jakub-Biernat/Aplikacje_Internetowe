@@ -7,7 +7,6 @@
             src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
-            alert('Czy wiesz, że możesz skopiować ten tekst przy pomocy skrótu Ctrl + C.');
             $(function () {
                 $('button:contains(\'Zielony\')').click(function () {
                     $('#classic').addClass('zielona');
@@ -18,12 +17,17 @@
                 $('button:contains(\'ugina\')').click(function () {
                     $('#toggle').toggleClass('zielona');
                 });
+                $('tr:even').addClass('zielona');
+                $('ol.a li:not(:has(.b a))').toggleClass('zolta');
             });
 
         });
     </script>
     <style>.zielona {
         background: Pink;
+    }</style>
+    <style>.zolta {
+        background: Yellow;
     }</style>
 </head>
 <body>
@@ -47,6 +51,17 @@
         <td>Szósty</td>
     </tr>
 </table>
+<ol class="a">
+    <li>Element 1</li>
+
+    <li>
+        <div class="b">
+            <a href="#">Element 2</a>
+        </div>
+    </li>
+
+    <li>Element 3</li>
+</ol>
 <div>
     <button>Zielony</button>
     <button>mosteczek</button>

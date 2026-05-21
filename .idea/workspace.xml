@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 1-5">
-      <change afterPath="$PROJECT_DIR$/Lab5/Style.html" afterDir="false" />
+    <list default="true" id="b0a49d10-9420-4df3-a37e-108ca1fb3062" name="Changes" comment="Add podpunkty 6-10">
+      <change afterPath="$PROJECT_DIR$/Lab5/Zdarzenia.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5/Selektory.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Selektory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5/Style.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab5/Style.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <workItem from="1779121015725" duration="2476000" />
       <workItem from="1779203240457" duration="1929000" />
       <workItem from="1779207854257" duration="4000" />
-      <workItem from="1779360771771" duration="1503000" />
+      <workItem from="1779360771771" duration="3397000" />
     </task>
     <task id="LOCAL-00001" summary="Add podpunkty 1-10">
       <option name="closed" value="true" />
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779383424377</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add podpunkty 6-10">
+      <option name="closed" value="true" />
+      <created>1779383872056</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1779383872056</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,10 +310,10 @@
     <MESSAGE value="Add Podpunkty 21-22 (Finish)" />
     <MESSAGE value="Add Lab1 (Finish)" />
     <MESSAGE value="Add podpunkty 16-20 (Finish)" />
-    <MESSAGE value="Add podpunkty 6-10" />
     <MESSAGE value="Add podpunkty 11-15" />
     <MESSAGE value="Add podpunkty 16 (Finish)" />
     <MESSAGE value="Add podpunkty 1-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 1-5" />
+    <MESSAGE value="Add podpunkty 6-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add podpunkty 6-10" />
   </component>
 </project>
